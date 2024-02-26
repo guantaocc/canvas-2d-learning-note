@@ -20,6 +20,12 @@
 这7个章节可分为7大部分，分别对应了原书3-10章节
 
 
+## 构建
+
+- [code]: (基于rust构建的开发测试服务器)
+- [graph]: (图形实现)
+- [reading]: (读书)
+- [resource]: (资源目录)
 
 ## 内容简介
 
@@ -27,3 +33,9 @@
 #### 什么是canvas渲染
 
 
+
+## 有意思的论文和库
+
+
+- [01.xml实现canvas交互式图形](https://d.wanfangdata.com.cn/thesis/D01853454)
+- [02.topu网站设计](https://www.hightopo.com/demo/PID-feed-system/)
